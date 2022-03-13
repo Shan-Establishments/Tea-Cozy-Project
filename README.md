@@ -15,3 +15,4 @@ What makes this project stand out is how I managed to display the images on the 
 
 This is an image of my website so far:
 ![TeaCozyProject](https://user-images.githubusercontent.com/96252845/158073198-67eae9f8-d7c7-49a0-b1a5-1b70b66c2567.jpeg)
+Click on the [link](https://shan-establishments.github.io/Tea-Cozy-Project/) to view my project :)
